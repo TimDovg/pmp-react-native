@@ -1,4 +1,4 @@
-# Pmp-React-Native
+# Pmp-Rgr-React-Native
 
 ## Screenshots
 
@@ -10,8 +10,8 @@
 
 #### Clone & install
 
-* Clone this repo `git clone https://github.com/TimDovg/pmp-react-native/`
-* `cd pmp-react-native`
+* Clone this repo `git clone https://github.com/TimDovg/pmp-rgr-react-native`
+* `cd pmp-rgr-react-native`
 * run `npm install`
 
 #### iOS
