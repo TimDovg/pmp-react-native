@@ -1,4 +1,4 @@
-# pmp-react-native
+# Pmp-React-Native
 
 ## Screenshots
 
